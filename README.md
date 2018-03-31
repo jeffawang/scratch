@@ -1,5 +1,6 @@
-
 <p class="myclass">This paragraph has a class "myclass"</p>
+
+{.class-name}asdf
 
 
 |                            | 1Password  | Enpass      | LastPass    | KeepassXC | BitWarden   | Dashlane     |
